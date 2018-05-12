@@ -1,4 +1,5 @@
 _repo: Kihlautuneet-Historiallinen-romaani_47932
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hahl, Jalmari
@@ -6,6 +7,9 @@ contributor:
     deathdate: 1929
     gutenberg_agent_id: '8054'
     url: http://www.gutenberg.org/2009/agents/8054
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Manzoni, Alessandro
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37500
     wikipedia: http://en.wikipedia.org/wiki/Alessandro_Manzoni
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47932#Kihlautuneet-Historiallinen-romaani
 gutenberg_issued: '2015-01-10'
 gutenberg_type: Text
 identifiers:
